@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+I love programming.
+I love games.
+I also love finding meaning in large datasets.
+I love creating apps that can run in a browser.
+=======
+I love programming.
+I love games.
+I also love finding meaning in large datasets.
+I love creating apps that can run in a browser.
+>>>>>>> 0ad53dac9cd47facb93fdb57a08285ce5fa8b9e9
